@@ -28,9 +28,9 @@
      - No priority (Priority level 0)
 
 - [x] **Priority levels:**
-     - 4 Urgent 
-     - 3 High 
-     - 2 Medium 
-     - 1 Low 
-     - 0 No priority 
+     - 4 - Urgent 
+     - 3 - High 
+     - 2 - Medium 
+     - 1 - Low 
+     - 0 - No priority 
 
