@@ -10,8 +10,6 @@ function Kanban() {
     const [grouping, setGrouping] = useState(localStorage.getItem('grouping') || 'status');
     const [ordering, setOrdering] = useState(localStorage.getItem('ordering') || 'title');
 
-
-
     useEffect(() => {
         localStorage.setItem('ordering', ordering)
     }, [ordering])
