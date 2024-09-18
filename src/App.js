@@ -3,7 +3,6 @@ import Kanban from './components/Kanban';
 import Title from './components/Title';
 
 function App() {
-
   return (
     <div className="App">
       <Kanban/>
@@ -11,5 +10,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
